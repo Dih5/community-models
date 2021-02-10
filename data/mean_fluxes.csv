@@ -1,0 +1,136 @@
+Provincia_origen,Provincia_destino,daily flux (1/day)
+Albacete,Alicante,247.27868852459017
+Albacete,Ciudad Real,331.04918032786884
+Albacete,Cuenca,197.63934426229508
+Albacete,Murcia,120.01639344262296
+Albacete,Valencia/Valéncia,223.327868852459
+Alicante,Albacete,154.52459016393442
+Alicante,Murcia,1414.3934426229507
+Alicante,Valencia/Valéncia,332.40983606557376
+Almería,Granada,7.442622950819672
+Almería,Murcia,686.9344262295082
+Araba/Álava,Bizkaia,384.1475409836066
+Araba/Álava,Burgos,566.8032786885246
+Araba/Álava,Gipuzkoa,5.213114754098361
+Araba/Álava,Navarra,2.2295081967213113
+Araba/Álava,"Rioja, La",149.14754098360655
+Asturias,Cantabria,83.72131147540983
+Asturias,León,1.721311475409836
+Asturias,Lugo,391.1311475409836
+Badajoz,Ciudad Real,6.180327868852459
+Badajoz,Cáceres,647.7704918032787
+Badajoz,Córdoba,20.360655737704917
+Badajoz,Huelva,178.327868852459
+Barcelona,Girona,1483.7377049180327
+Barcelona,Lleida,5.459016393442623
+Barcelona,Tarragona,317.0163934426229
+Bizkaia,Araba/Álava,385.8688524590164
+Bizkaia,Burgos,16.295081967213115
+Bizkaia,Cantabria,109.19672131147541
+Bizkaia,Gipuzkoa,646.8852459016393
+Burgos,Araba/Álava,999.8524590163935
+Cantabria,Asturias,112.1639344262295
+Cantabria,Bizkaia,579.983606557377
+Castellón/Castelló,Tarragona,446.73770491803276
+Castellón/Castelló,Valencia/Valéncia,271.88524590163934
+Ciudad Real,Albacete,401.6885245901639
+Ciudad Real,Cuenca,5.163934426229508
+Ciudad Real,Córdoba,102.8688524590164
+Ciudad Real,Toledo,114.91803278688525
+"Coruña, A",Lugo,341.11475409836066
+"Coruña, A",Pontevedra,2427.5245901639346
+Cuenca,Albacete,141.327868852459
+Cuenca,Ciudad Real,4.344262295081967
+Cuenca,Valencia/Valéncia,14.40983606557377
+Cáceres,Badajoz,634.4754098360655
+Cáceres,Toledo,1.7540983606557377
+Cáceres,Ávila,34.90163934426229
+Cádiz,Huelva,451.327868852459
+Cádiz,Málaga,449.8360655737705
+Cádiz,Sevilla,386.75409836065575
+Córdoba,Ciudad Real,151.60655737704917
+Córdoba,Granada,47.557377049180324
+Córdoba,Jaén,302.3114754098361
+Córdoba,Málaga,47.09836065573771
+Córdoba,Sevilla,1044.1967213114754
+Gipuzkoa,Araba/Álava,26.114754098360656
+Gipuzkoa,Bizkaia,457.62295081967216
+Gipuzkoa,Navarra,9.40983606557377
+Girona,Barcelona,1665.9180327868853
+Girona,Lleida,54.81967213114754
+Granada,Almería,61.622950819672134
+Granada,Córdoba,5.065573770491803
+Granada,Jaén,72.1639344262295
+Granada,Málaga,14.262295081967213
+Guadalajara,Madrid,510.91803278688525
+Huelva,Badajoz,99.54098360655738
+Huelva,Cádiz,571.0
+Huelva,Sevilla,8.573770491803279
+Huesca,Lleida,283.9836065573771
+Huesca,Zaragoza,20.065573770491802
+Jaén,Córdoba,255.68852459016392
+Jaén,Granada,109.75409836065573
+León,Ourense,22.59016393442623
+León,Zamora,4.0
+Lleida,Girona,64.95081967213115
+Lleida,Huesca,391.72131147540983
+Lugo,Asturias,515.3770491803278
+Lugo,"Coruña, A",288.1639344262295
+Madrid,Guadalajara,443.9344262295082
+Madrid,Toledo,1081.7704918032787
+Melilla,Almería,4.524590163934426
+Melilla,Córdoba,5.737704918032787
+Murcia,Albacete,129.01639344262296
+Murcia,Alicante,1612.295081967213
+Murcia,Almería,1024.327868852459
+Málaga,Cádiz,639.8360655737705
+Málaga,Córdoba,26.491803278688526
+Navarra,Gipuzkoa,10.229508196721312
+Navarra,Lleida,1.639344262295082
+Navarra,"Rioja, La",813.7213114754098
+Navarra,Zaragoza,365.57377049180326
+Ourense,León,82.26229508196721
+Ourense,Lugo,1.9180327868852458
+Ourense,Pontevedra,150.327868852459
+Palencia,Burgos,11.672131147540984
+"Palmas, Las",Santa Cruz de Tenerife,4.016393442622951
+Pontevedra,"Coruña, A",3055.72131147541
+Pontevedra,Ourense,124.27868852459017
+"Rioja, La",Araba/Álava,902.8852459016393
+"Rioja, La",Navarra,891.1311475409836
+Salamanca,Valladolid,2.3114754098360657
+Salamanca,Ávila,91.31147540983606
+Santa Cruz de Tenerife,"Palmas, Las",1.7704918032786885
+Segovia,Valladolid,55.26229508196721
+Segovia,Ávila,1.7049180327868851
+Sevilla,Cádiz,416.75409836065575
+Sevilla,Córdoba,869.983606557377
+Sevilla,Huelva,409.9836065573771
+Sevilla,Málaga,54.78688524590164
+Tarragona,Barcelona,445.8032786885246
+Tarragona,Castellón/Castelló,550.1311475409836
+Tarragona,Teruel,17.770491803278688
+Teruel,Tarragona,6.278688524590164
+Teruel,Valencia/Valéncia,2.1639344262295084
+Teruel,Zaragoza,10.39344262295082
+Toledo,Ciudad Real,80.47540983606558
+Toledo,Cuenca,30.37704918032787
+Toledo,Cáceres,4.983606557377049
+Toledo,Madrid,1209.4590163934427
+Toledo,Ávila,72.08196721311475
+Valencia/Valéncia,Albacete,307.3114754098361
+Valencia/Valéncia,Alicante,366.0
+Valencia/Valéncia,Castellón/Castelló,444.9836065573771
+Valencia/Valéncia,Teruel,2.1475409836065573
+Valladolid,León,2.098360655737705
+Valladolid,Salamanca,4.475409836065574
+Valladolid,Segovia,86.22950819672131
+Valladolid,Soria,1.9180327868852458
+Zamora,León,1.7049180327868851
+Zaragoza,Huesca,32.377049180327866
+Zaragoza,Navarra,464.7049180327869
+Zaragoza,Soria,10.442622950819672
+Zaragoza,Teruel,7.032786885245901
+Ávila,Cáceres,77.08196721311475
+Ávila,Segovia,1.9836065573770492
+Ávila,Toledo,53.59016393442623
